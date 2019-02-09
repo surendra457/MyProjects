@@ -7,7 +7,7 @@ import cucumber.api.junit.Cucumber;
         features = "resources/feautures"
         ,format = {"pretty", "html:target/cucumber"}
 )
-
+// hi java
 public class CucumberRunner {
 
 }
